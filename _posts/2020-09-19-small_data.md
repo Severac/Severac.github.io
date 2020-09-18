@@ -12,6 +12,16 @@ I guess it depends on various things:\
 - The amount of effect size
 - The number of variables having an effect : 150 instances and 5 variables is completely different from 150 instances and 35 variables
 
+So let's do a small practical test :\
+Let's generate a random dataset of 162 instances x 35 variables.\
+Though not totally random: let 5 of the 35 variables be calculated using some pre-determined coeficients.\
+
+ {% raw %}
+  $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
+ {% endraw %}
+
+Then we try to run machine learning and correlation analysis of the result, to see if we can find which variables have an effect.
+
 ```python
 import matplotlib.pyplot as plt
 import numpy as np
