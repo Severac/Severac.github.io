@@ -1,4 +1,4 @@
-# Small data
+# Can you do machine learning on small data ?
 We hear a lot about big data.
 
 Accross the 7 projects of my training, I've been working on several hundred thousands, or millions of data instances on various topics.\
