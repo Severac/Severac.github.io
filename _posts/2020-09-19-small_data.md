@@ -1,5 +1,5 @@
-# Can you do machine learning on small data ?
-We hear a lot about big data, but what about small data ? :)\
+# Can you apply machine learning on small data ?
+## We hear a lot about big data, but what about small data ? :)\
 Sometimes you just don't have the resources or necessary time to gather much data.
 
 Accross the 7 projects of my training, I've been working on several hundred thousands, or millions of data instances on various topics.\
@@ -12,13 +12,16 @@ I guess it depends on various things:\
 - The amount of effect size
 - The number of variables having an effect : 150 instances and 5 variables is completely different from 150 instances and 35 variables
 
-So let's do a small practical test :\
+## Practical test
+So let's do a small practical test to get a feeling of what you could do with small number of instances :\
 Let's generate a random dataset of 162 instances x 35 variables.\
 Though not totally random: let 5 of the 35 variables be calculated using some pre-determined coeficients.\
 
- {% raw %}
-  $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
- {% endraw %}
+
+
+
+
+
 
 Then we try to run machine learning and correlation analysis of the result, to see if we can find which variables have an effect.
 
