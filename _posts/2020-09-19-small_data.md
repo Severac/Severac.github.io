@@ -13,9 +13,18 @@ I guess it depends on various things:\
 - The number of variables having an effect : 150 instances and 5 variables is completely different from 150 instances and 35 variables
 
 ## Practical test
+### First, generate random data
 So let's do a small practical test to get a feeling of what you could do with small number of instances :\
-Let's generate a random dataset of 162 instances x 35 variables.\
-Though not totally random: let 5 of the 35 variables be calculated using some pre-determined coeficients.\
+
+I've generated a random dataset of 162 instances x 35 variables.\
+Though not totally random: I've let 5 of the 35 variables be calculated using some pre-determined coeficients of 20, 15, 10, 5, 2 multiplied by the random matrix.\
+
+So, we know that only the first 5 variables have a predictable effect on the label
+The 30 other variables are totally random.
+
+Now how many data instances do we need to train a model that can detect variable importances ?
+
+
 
 
 
