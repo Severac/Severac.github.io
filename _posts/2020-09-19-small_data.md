@@ -5,7 +5,7 @@ Sometimes you just don't have the resources or necessary time to gather much dat
 I wanted to have an idea if Machine Learning and statistical correlation analysis could have a chance to give results on small data, and how to measure the probability that our model gives good results.
 
 Here's the detailed work :
-https://www.kaggle.com/franoisboyer/machine-learning-with-small-dataset
+[https://www.kaggle.com/franoisboyer/machine-learning-with-small-dataset](https://www.kaggle.com/franoisboyer/machine-learning-with-small-dataset)
 
 What I can say from this work is :
 - Machine Learning can work with as few as 2000 samples in some cases
