@@ -19,16 +19,17 @@ Voici ma réponse aux principaux arguments fournis :
 
 Il y a eu beaucoup de marketing autour de Siri en vue de nous faire croire que c'était un système intelligent.  
 Or dans la première version de Siri il n'y avait en réalité aucune technique avancée d'intelligence artificielle à ma connaissance (de type deep learning).  
-Siri n'est pas une référence en matière d'intelligence artificielle, il est donc abusif de l'utiliser en exemple pour indiquer que l'IA n'existe pas.
+Siri n'est pas une référence en matière d'intelligence artificielle, il est donc abusif de l'utiliser en exemple pour indiquer que l'IA n'existe pas.  
 Pour s'en convaincre on pourra aller voir le rapport [https://www.stateof.ai/](State of AI) 2020 qui indique :  
-"AI dialogue assistants are live and **handling calls from UK customers today**"
-"PolyAI has rolled out its voice assistant for hospitality in the UK. The system is actively answering reservation calls and assisting diners with special dietary requirements and providing COVID-19 guidance."  
+AI dialogue assistants are live and **handling calls from UK customers today**  
+PolyAI has rolled out its voice assistant for hospitality in the UK. The system is actively answering reservation calls and assisting diners with special dietary requirements and providing COVID-19 guidance.  
+Powered by the company's latest deep learning technology, the system can understand noisy speech from telephone lines and has a success rate of >90% for an average 8-turn conversation."  
 
 > Les machines seraient incapables de reconnaître des objets dans des contextes qu'ils n'ont jamais vus  
 > Je cite l'auteur : "Les machines sont incapables de contextualiser. Si lors de la phase d'apprentissage, on n'a pas fourni d'images de chat prises la nuit, il y a peu de chances que le système reconnaisse un chat dans la nuit"  
 
 Pourtant, voici un contre exemple : j'ai réalisé l'entraînement d'un réseau de neuronnes convolutif qui est capable de reconnaître un chien de nuit, en voici un exemple :  
-<img src="../images/Screenshot_20201008-231908.jpg" width="200">
+<img src="https://blog.analysons.com/images/Screenshot_20201008-231908.jpg" width="200">
 
 Ce chien aux yeux rouges un peu surnaturels est reconnu à juste titre comme un Eskimo dog à 87% de probabilité et comme un Siberian Husky (une race qui ressemble beaucoup à l'Eskimo dog) à 12%.  
 Les données utilisées pour entraîner ce réseau de neuronnes proviennent de la banque d'images ImageNet et du stanford dogs dataset : aucune de ces banques d'images ne comportent d'images de Siberian Husky prises dans ce contexte de nuit un peu surnaturel.  
@@ -47,7 +48,7 @@ Quand vous voyez un chaton, vous ne pouvez pas *choisir* de ne pas voir le chato
 Les réseaux de neuronnes convolutifs qui font le succès de l'IA en reconnaissance d'images sont justement issus de l'étude du cortex visuel cérébral, ils fournissent justement l'équivalent de ces fonctionnalités "bas niveau" de reconnaissance de formes, et sont capables de performances meilleures que les humains dans certains domaines.  
 
 Pourquoi a-t-on besoin de fournir à une IA des images avec différents niveaux de zoom, de luminosité, de rotation, ....  
-<img src="https://github.com/Severac/Severac.github.io/blob/master/_posts/Data augmentation.png" width="600">
+<img src="https://blog.analysons.com/images/Data augmentation.png" width="600">
 
 Serait-ce parce que l'IA n'est pas plongée dans le monde physique réel comme nous le sommes : elle n'a pas toutes nos connaissances.  
 Mais si l'IA a besoin de ce type d'exemples contextuels, est-ce que c'est parce que *l'intelligence artificielle n'existerait pas* comment l'auteur semble le croire ? Ou bien est-ce davantage une question de manque de connaissance a priori de l'IA sur le monde (auquel on pallie en partie en fournissant des exemples) ?  
