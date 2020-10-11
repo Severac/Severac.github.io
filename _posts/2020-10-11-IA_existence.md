@@ -28,10 +28,7 @@ Pour s'en convaincre on pourra aller voir le rapport [https://www.stateof.ai/](S
 > Je cite l'auteur : "Les machines sont incapables de contextualiser. Si lors de la phase d'apprentissage, on n'a pas fourni d'images de chat prises la nuit, il y a peu de chances que le système reconnaisse un chat dans la nuit"  
 
 Pourtant, voici un contre exemple : j'ai réalisé l'entraînement d'un réseau de neuronnes convolutif qui est capable de reconnaître un chien de nuit, en voici un exemple :  
-<img src="https://github.com/Severac/Severac.github.io/blob/master/_posts/Screenshot_20201008-231908.jpg" width="200">
-<img src="_posts/Screenshot_20201008-231908.jpg" width="200">
-<img src="../Screenshot_20201008-231908.jpg" width="200">
-<img src="Screenshot_20201008-231908.jpg" width="200">
+<img src="images/Screenshot_20201008-231908.jpg" width="200">
 
 Ce chien aux yeux rouges un peu surnaturels est reconnu à juste titre comme un Eskimo dog à 87% de probabilité et comme un Siberian Husky (une race qui ressemble beaucoup à l'Eskimo dog) à 12%.  
 Les données utilisées pour entraîner ce réseau de neuronnes proviennent de la banque d'images ImageNet et du stanford dogs dataset : aucune de ces banques d'images ne comportent d'images de Siberian Husky prises dans ce contexte de nuit un peu surnaturel.  
