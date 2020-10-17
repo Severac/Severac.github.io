@@ -36,7 +36,8 @@ Les données utilisées pour entraîner ce réseau de neuronnes proviennent de l
 Le deep learning a donc ici permis à la machine de généraliser ce qu'elle connait à une situation nouvelle.  
 Cela est possible grâce à la technique du "transfer learning" qui a révolutionné le domaine de la reconnaisance d'images: en partant d'un modèle qui n'a vu que des images très générales, on peut le spécialiser à un domaine particulier en ne lui montrant que quelques dizaines d'exemples.
 
-Le code source du réseau de neuronnes que j'ai construit pour générer cette reconnaissance [https://www.kaggle.com/franoisboyer/openclassrooms-pj7-modelisation-part-6](est disponible ici) :  
+Le code source du réseau de neuronnes que j'ai construit pour générer cette reconnaissance est disponible ici :
+[https://www.kaggle.com/franoisboyer/openclassrooms-pj7-modelisation-part-6](https://www.kaggle.com/franoisboyer/openclassrooms-pj7-modelisation-part-6) :  
 
 > Les enfants auraient besoin de beaucoup moins d'exemples que la machine pour reconnaître une image  
 > "Si on interroge les psychologues, ils nous disent que les enfants n'ont besoin que de deux instances d'images de chat pour les reconnaître à vie"  
