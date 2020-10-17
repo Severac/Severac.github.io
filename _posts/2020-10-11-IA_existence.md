@@ -2,8 +2,7 @@
 
 J'ai lu le livre "L'intelligence artificielle n'existe pas" de Luc JULIA.   
 Ce livre est en grande partie (un peu plus de la moitié) une biographie de l'auteur 
-(une personne brillante et pragmatique à l'origine de concepts comme Siri, les imprimantes connectées,  
-des concepts très utiles mais assez éloignés des techniques de "Deep learning", et donc assez éloignés de l' "Intelligence Artificielle", puisque c'est au deep learning qu'on associe souvent l'intelligence artificielle) 
+(une personne brillante et pragmatique à l'origine de concepts comme Siri, les imprimantes connectées, des concepts très utiles mais assez éloignés des techniques de "Deep learning", et donc assez éloignés de l' "Intelligence Artificielle", puisque c'est au deep learning qu'on associe souvent l'intelligence artificielle) 
 ainsi qu'une description des usages liés aux objets connectés du futur.  
 
 Mais je souhaitais réagir à la partie du livre qui concerne son titre : "L'intelligence artificielle n'existe pas"  
@@ -58,13 +57,13 @@ Ce papier de recherche permet d'aller plus loin sur la question et creuse d'autr
 
 > Les IA d'échecs ne seraient douées d'aucune intelligence ni créativité  
 
-Je m'intéresse aux échecs et je peux affirmer que l'IA Alpha Zero de deep mind est époustouflante de créativité, d'initiative, de prise de risque.  
-Posez la question à n'importe quel joueur d'échecs ayant visionné quelques parties.  
+Je m'intéresse aux échecs et je peux affirmer que l'IA Alpha Zero de deep mind est époustouflante de créativité et d'initiative.  
+Posez la question à n'importe quel joueur d'échecs ayant visionné quelques parties. Il vous répondra qu'Alpha Zero dispose d'un sens positionnel extrêmement développé. Or aux échecs, on oppose souvent le sens positionnel (le côté stratégique, qui a longtemps été réservé aux humains) et le sens tactique (le côté calcul pur) : dans les années 80, pour battre un programme d'échecs, il fallait jouer des coups "positionnels" de long terme que le programme ne pouvait pas comprendre.  De nos jours, c'est Alpha Zero qui joue des coups positionnels parfois très inattendus, qui sont en apparence faux (et que les anciens programmes d'échecs ne comprennent pas non plus), mais qui s'avèrent gagnants sur le long terme.  
 Je ne détaillerai pas cela ici car le sujet a déjà largement été traité, mais Alpha Zero est le contre exemple absolu de ce qu'indique l'auteur.
 
 De plus, Alpha Zero a vaincu Stockfish (qui était jusqu'alors le meilleur moteur d'échecs existant) en utilisant beaucoup moins de puissance de calcul que ce dernier.  
 Voici quelques vidéos de parties d'alpha zero :  
-[https://www.youtube.com/watch?v=PH06mEOVVyY&t=187s](https://www.youtube.com/watch?v=PH06mEOVVyY&t=187s)
+[https://www.youtube.com/watch?v=PH06mEOVVyY&t=187s](https://www.youtube.com/watch?v=PH06mEOVVyY&t=187s)  
 [https://www.youtube.com/watch?v=lFXJWPhDsSY](https://www.youtube.com/watch?v=lFXJWPhDsSY)
 
 Un autre domaine où l'IA a énormément progressé ces dernières années, c'est celui de la gestion du texte.
