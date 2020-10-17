@@ -71,8 +71,8 @@ Avec GPT 3, qui est un modèle capable de générer du texte, on obtient des ré
 Sous certaines conditions, il est possible de poser des questions à GPT 3, et de converser avec lui.
 
 On pourra voir certains exemples ici :
-https://medium.com/@kirkouimet/turing-test-2669daffae38
-https://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html
+[https://medium.com/@kirkouimet/turing-test-2669daffae38](https://medium.com/@kirkouimet/turing-test-2669daffae38)  
+[https://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html](https://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html)  
 
 Même si GPT 3 n'est clairement pas une intelligence de niveau humain, en lisant certains textes qu'il formule, on se rend compte qu'il dispose de certaines capacités de déduction et de logique.  
 
