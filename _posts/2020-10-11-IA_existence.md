@@ -67,7 +67,18 @@ Voici quelques vidéos de parties d'alpha zero :
 [https://www.youtube.com/watch?v=PH06mEOVVyY&t=187s](https://www.youtube.com/watch?v=PH06mEOVVyY&t=187s)
 [https://www.youtube.com/watch?v=lFXJWPhDsSY](https://www.youtube.com/watch?v=lFXJWPhDsSY)
 
+Un autre domaine où l'IA a énormément progressé ces dernières années, c'est celui de la gestion du texte.
+Avec GPT 3, qui est un modèle capable de générer du texte, on obtient des résultats que je trouve très impressionnants.
+Sous certaines conditions, il est possible de poser des questions à GPT 3, et de converser avec lui.
 
+On pourra voir certains exemples ici :
+https://medium.com/@kirkouimet/turing-test-2669daffae38
+https://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html
+
+Même si GPT 3 n'est clairement pas une intelligence de niveau humain, en lisant certains textes qu'il formule, on se rend compte qu'il dispose de certaines capacités de déduction et de logique.  
+
+En conclusion: selon moi on peut déjà dire aujourd'hui que l'IA existe, lorsqu'on regarde les progrès réalisés en détection d'images, gestion du texte, et jeu, dont j'ai fourni quelques éléments dans cet article.    
+En revanche, ce qui n'existe pas encore, c'est une IA de type AGI (Artificial General Intelligence) : une IA suffisamment généraliste pour maîtriser ces différentes disciplines en même temps.  
 
 
 
