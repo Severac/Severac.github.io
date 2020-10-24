@@ -20,7 +20,7 @@ Voici pourquoi, et voici ma réponse aux principaux arguments fournis par l'aute
 Il y a eu beaucoup de marketing autour de Siri en vue de nous faire croire que c'était un système intelligent.  
 Or dans la première version de Siri il n'y avait en réalité aucune technique avancée d'intelligence artificielle à ma connaissance (de type deep learning).  
 Siri n'est pas une référence en matière d'intelligence artificielle, il est donc abusif de l'utiliser en exemple pour indiquer que l'IA n'existe pas.  
-Pour s'en convaincre on pourra aller voir le rapport [https://blog.analysons.com/2020/10/05/State-of-AI-2020.html](State of AI) 2020 qui indique que d'autres assistants vocaux sont capables de réaliser des tâches avancées :  
+Pour s'en convaincre on pourra aller voir le rapport [https://blog.analysons.com/2020/10/05/State-of-AI-2020.html](State of AI) qui indique que d'autres assistants vocaux sont capables de réaliser des tâches avancées :  
 AI dialogue assistants are live and **handling calls from UK customers today**  
 PolyAI has rolled out its voice assistant for hospitality in the UK. **The system is actively answering reservation calls and assisting diners with special dietary requirements and providing COVID-19 guidance.**  
 Powered by the company's latest deep learning technology, **the system can understand noisy speech from telephone lines and has a success rate of >90% for an average 8-turn conversation."**
