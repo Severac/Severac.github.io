@@ -80,7 +80,7 @@ Même si GPT 3 n'est clairement pas une intelligence de niveau humain, en lisant
 En conclusion: selon moi on peut déjà dire aujourd'hui que l'IA existe, lorsqu'on regarde les progrès réalisés en détection d'images, gestion du texte, et jeu, dont j'ai fourni quelques éléments dans cet article.    
 En revanche, ce qui n'existe pas encore, c'est une IA de type AGI (Artificial General Intelligence) : une IA suffisamment généraliste pour maîtriser ces différentes disciplines en même temps.  
 
-
+François BOYER
 
 
 
