@@ -9,5 +9,5 @@ But if some content can help others one day, I'll be very glad about it.
 
 Some articles will be in French, others in English
 
-François BOYER
+François BOYER  
 [francois.boyer@gmail.com](francois.boyer@gmail.com)
